@@ -1,5 +1,5 @@
 name: formgaurd
-description: "A new Flutter package project."
+description: "FormGuard is a Dart package designed specifically for Flutter applications. It provides validators for handling form validation tasks in a Flutter-friendly manner. Since Flutter apps are built using Dart, the package can seamlessly integrate into any Flutter project to simplify and streamline form validation."
 version: 0.0.1
 license: MIT
 homepage: https://github.com/Atanu-Sabyasachi/formgaurd/tree/main
